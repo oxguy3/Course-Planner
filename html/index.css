@@ -29,20 +29,6 @@ h1{
 	font-family: roboto, serif;
 }
 
-body {
-	font-family: roboto, serif;
-	background-image: url("res/backgrounds/Rush.jpg");
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-	background-attachment: fixed;
-	background-position: center;
-}
-
-ul {
-	list-style-type: none;
-}
-
-<style type="text/css">
 .login_button {
 	-moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
@@ -71,9 +57,9 @@ ul {
 	font-size:15px;
 	font-weight:bold;
 	font-style:normal;
-	height:65px;
-	line-height:65px;
-	width:131px;
+	height:31px;
+	line-height:31px;
+	width:78px;
 	text-decoration:none;
 	text-align:center;
 	text-shadow:1px 1px 0px #528ecc;
@@ -87,5 +73,16 @@ ul {
 	position:relative;
 	top:1px;
 }
-onclick="janrainEngageEmbed"</style>
-/* This button was generated using CSSButtonGenerator.com */
+
+body {
+	font-family: roboto, serif;
+	background-image: url("res/backgrounds/Rush.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+ul {
+	list-style-type: none;
+}
